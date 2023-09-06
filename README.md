@@ -8,5 +8,3 @@ The bot starts by downloading a list of free proxies. The bot then uses multithr
 After checking all Instagram names, the bot creates a JSON file with information about the available name and login-password pairs from the second TXT file. The bot renames users on Instagram using Selenium. To do this, the bot opens the browser in the background and logs in to Instagram using the transmitted username and password. The bot then renames the users with an available name.
 
 The bot regularly records information about the progress of work in log files to ensure transparency of work and simplify debugging. If errors occur, the bot automatically sends notifications to warn about problems in operation, and continues working with other data.
-
-in open access, I do not fix my earnings, sorry)
